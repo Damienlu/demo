@@ -1,4 +1,3 @@
 {
-  "user":
-    { "id": 1, "firstName": "Post 1", "lastName": "hhh" },
+  "user": { "id": 1, "firstName": "Post 1", "lastName": "hhh" },
 }
